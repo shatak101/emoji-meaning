@@ -1,0 +1,20 @@
+export const data = {
+  "😊": "smiling face",
+  "😂": "face with tears of joy",
+  "😍": "heart eyes",
+  "😁": "grinning face",
+  "😎": "smiling face with sunglasses",
+  "😢": "crying face emoji",
+  "😜": "winking face with tongue",
+  "😘": "face blowing a kiss",
+  "😒": "unamused face",
+  "😃": "grinning face with big eyes",
+  "🤔": "thinking face",
+  "🤢": "nauseated face",
+  "🙂": "slightly smiling face",
+  "🤨": "face with raised eyebrow",
+  "😗": "kissing face",
+  "😐": "neutral face",
+  "🙄": "face with rolling eyes",
+  "😔": "pensive face"
+};
