@@ -39,7 +39,7 @@ export default function App() {
         onChange={inputHandler}
         placeholder="Enter any emoji"
       ></input>
-      <p>Or choose one to see some magic happen!</p>
+      <p>Or choose one of them to see some magic happen ! </p>
       <div className="emojiList">
         {emojiList.map((item) => {
           return (
@@ -53,6 +53,10 @@ export default function App() {
           );
         })}
       </div>
+      <h2>
+        {" "}
+        If you want to know what do emojis mean, you are in a right place.{" "}
+      </h2>
     </div>
   );
 }
